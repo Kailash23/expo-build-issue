@@ -4020,7 +4020,7 @@ expo-modules-core@0.11.10:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo@^46.0.0:
+expo@^46.0.16:
   version "46.0.21"
   resolved "https://registry.yarnpkg.com/expo/-/expo-46.0.21.tgz#83108a8f59c1773fc2bdc3684efcaa5a812a4990"
   integrity sha512-leTI/GZXDN78xIThqimdK3Bk6uQ5dVkuWr+C0U/K0Ng5qDojQhJGtkM2lSS595KVTa3uYP6m0149MBg6Fp3fpA==
