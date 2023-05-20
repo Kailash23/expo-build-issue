@@ -13,7 +13,8 @@
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.9",
-    "react-native-clean-project": "^4.0.1"
+    "react-native-clean-project": "^4.0.1",
+    "expo": "^46.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
